@@ -1,3 +1,5 @@
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=Momahmoses%2Fng-wash-access-monitor&branch=main&mainModule=app.py)
+
 # 💧 Nigeria WASH Access Monitor
 
 SDG 6 progress tracker for Water, Sanitation, and Hygiene (WASH) across Nigeria's 37 states, mapping water point functionality, open defecation zones, and coverage gaps with **GIS**, **PySpark**, **Azure Data Lake**, and **Streamlit**.
