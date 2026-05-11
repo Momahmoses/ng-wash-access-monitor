@@ -1,0 +1,7 @@
+"""Azure config for WASH Access Monitor."""
+import os
+
+AZURE_STORAGE_CONNECTION_STRING = os.getenv("AZURE_STORAGE_CONNECTION_STRING", "")
+AZURE_DATA_LAKE_ENDPOINT = os.getenv("AZURE_DATA_LAKE_ENDPOINT", "")
+DATABRICKS_HOST = os.getenv("DATABRICKS_HOST", "")
+DATABRICKS_TOKEN = os.getenv("DATABRICKS_TOKEN", "")
